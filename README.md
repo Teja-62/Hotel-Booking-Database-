@@ -1,8 +1,8 @@
 # Hotel Booking Database System
 
 ## Intern Information
-- **Name:** BONDADA GAUTHAM SAI
-- **Intern ID:** CITS1588
+- **Name:** GUNNA HIMATEJA
+- **Intern ID:** CITS2525
 
 ## Project Title
 Hotel Booking Database System
@@ -95,5 +95,5 @@ This project provides a basic understanding of SQL database creation, data inser
 
 ## Submitted By
 
-**BONDADA GAUTHAM SAI**  
-**Intern ID: CITS1588**
+**GUNNA HIMATEJAI**  
+**Intern ID: CITS2525**
